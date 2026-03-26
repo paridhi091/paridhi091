@@ -20,7 +20,7 @@ Computer Science Engineering student
 
 ##  Connect With Me
 - GitHub: https://github.com/paridhi091
-- 
+  
 ---
 # Learning step by step, building my future in tech.
 
