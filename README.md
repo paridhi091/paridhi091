@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**paridhi091/paridhi091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Paridhi 
 
-Here are some ideas to get you started:
+ First-year Computer Science Engineering student  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+-  Currently learning: Python, basic programming, and problem-solving  
+-  Interested in: AI/ML, real-world problem solving, and creative tech projects  
+-  Goal: To become a skilled developer and build impactful projects  
+-  Always open to learning new technologies and improving myself  
+
+
+##  GitHub Stats
+[Paridhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=paridhi091&show_icons=true)
+
+---
+
+##  Connect With Me
+- GitHub: https://github.com/paridhi091
+- 
+---
+# Learning step by step, building my future in tech.
+
+
+
