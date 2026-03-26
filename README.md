@@ -1,7 +1,9 @@
 
 # Hi, I'm Paridhi 
+Computer Science Engineering student
+- Branch: CSE ( AI ML) 
+- Year: 1st year 
 
- First-year Computer Science Engineering student  
 ---
 
 ##  About Me
